@@ -57,18 +57,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Baso Network",
+          "href": "https://baso.network",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Forum",
+          "href": "https://forum.baso.network",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Launcher",
+          "href": "https://drive.usercontent.google.com/download?id=1hEY7wqtBu7Gy94DL4zakrUP5fj_4h7Yf&export=download&authuser=0",
           "icon": "newspaper"
         }
       ]
