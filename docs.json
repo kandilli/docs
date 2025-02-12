@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Baso Network",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,18 +11,16 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Genel",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Ön Bilgilendirme",
             "pages": [
-              "bilgilendirme",
-              "quickstart",
-              "development"
+              "bilgilendirme"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Sistemler",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -30,25 +28,6 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
             ]
           }
         ]
